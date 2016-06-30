@@ -1,0 +1,25 @@
+<div id="impress">
+<!
+<div id="1" class="step slide">
+<h1> Мой первый пустой слайд </h1>
+</div>
+<div id="2" class="step slide" data-x="1000" data-y="1000">
+<h1> Я ввела координаты второго слайда оп-па </h1>
+</div>
+<div id="3" class="step slide" data-x="3000" data-y="-1000"
+data-scale="4">
+<h1> Увеличила у названия масштаб </h1>
+</div>
+<div id="4" class="step slide" data-x="-1700" data-y="-3000"
+data-rotate="180" data-scale="40">
+<h1> Повернула слайд на 180 градусов </h1>
+</div>
+<div id="5" class="step slide" data-x="8000" data-y="-8100"
+data-rotate-x="50" data-rotate-z="-49">
+<h1> Повернула слайд по оси Z </h1>
+</div>
+<div id="6" class="step" data-x="0" data-y="0"
+data-scale="40">
+<h1> Обзорный слайд </h1>
+</div>
+>
